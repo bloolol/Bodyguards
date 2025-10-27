@@ -63,6 +63,8 @@ namespace BodyGuards
 
         public BodyGuards()
         {
+            if (Game.IsPaused)
+                return;
             this.Tick += new EventHandler(this.OnTick);
             this._iFruit = new CustomiFruit();
             this.contactA = new iFruitContact("Call bodyguards");

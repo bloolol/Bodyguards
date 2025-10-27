@@ -11,3 +11,15 @@ C:\Users\Chris-No Internet\source\repos\GTAV_CorrectProjectType\Bodyguards\obj\D
 C:\Users\Chris-No Internet\source\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.csproj.CopyComplete
 C:\Users\Chris-No Internet\source\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.dll
 C:\Users\Chris-No Internet\source\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.pdb
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\Bodyguards.dll
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\Bodyguards.pdb
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\iFruitAddon2.dll
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\NativeUI.dll
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\iFruitAddon2.pdb
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\bin\Debug\NativeUI.xml
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.csproj.AssemblyReference.cache
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.csproj.CoreCompileInputs.cache
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.csproj.Up2Date
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.dll
+C:\Users\clope\OneDrive\Documents\GTA V Modding\repos\repos\GTAV_CorrectProjectType\Bodyguards\obj\Debug\Bodyguards.pdb
